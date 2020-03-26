@@ -1,7 +1,4 @@
-package com.jiangcoder.index;
-
-import java.io.File;
-import java.io.IOException;
+package com.jiangcoder.lucene.index;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.FilenameUtils;
@@ -12,6 +9,9 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.util.Version;
 import org.junit.Before;
 import org.junit.Test;
+
+import java.io.File;
+import java.io.IOException;
 
 
 public class TestSearch {

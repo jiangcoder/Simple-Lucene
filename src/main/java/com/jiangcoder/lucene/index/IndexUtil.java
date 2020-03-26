@@ -1,4 +1,4 @@
-package com.jiangcoder.index;
+package com.jiangcoder.lucene.index;
 
 import java.io.File;
 import java.io.IOException;
